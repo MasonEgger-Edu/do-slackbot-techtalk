@@ -1,0 +1,17 @@
+aiohttp==3.7.4.post0
+async-timeout==3.0.1
+attrs==21.2.0
+chardet==4.0.0
+click==8.0.1
+Flask==2.0.1
+idna==3.2
+itsdangerous==1.1.0
+Jinja2==2.11.3
+MarkupSafe==1.1.1
+multidict==5.1.0
+pyee==7.0.4
+slackclient==2.9.3
+slackeventsapi==2.2.1
+typing-extensions==3.10.0.0
+Werkzeug==2.0.1
+yarl==1.6.3
